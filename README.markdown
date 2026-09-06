@@ -1,6 +1,5 @@
 # Hybrid RAG Chatbot with Streamlit, LangChain, Chroma, and Ollama
 
-[![GitHub Stars](https://img.shields.io/github/stars/yourusername/hybrid-rag-chatbot?style=social)](https://github.com/armanjscript/Hybrid-RAG-chatbot)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 
 ## Description
@@ -149,11 +148,11 @@ Follow these steps to set up the project:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/armanjscript/Hybrid-RAG-chatbot.git
+   git clone https://github.com/faizan616/Hybrid-RAG.git
    ```
 2. **Navigate to the Project Directory**:
    ```bash
-   cd Hybrid-RAG-chatbot
+   cd Hybrid-RAG
    ```
 3. **Install Dependencies**:
    ```bash
@@ -205,7 +204,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ## Contact
 
 For questions, feedback, or collaboration opportunities, please reach out:
-- **Email**: [armannew73@gmail.com]
+- **Email**: [faizanbaig2865@gmail.com]
 - **GitHub Issues**: Open an issue on this repository for bug reports or feature requests.
 
 ## Acknowledgments
